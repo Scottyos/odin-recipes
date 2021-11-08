@@ -1,0 +1,1 @@
+This project will use HTML to generate a basic website that won't look good but will show off HTML skills
